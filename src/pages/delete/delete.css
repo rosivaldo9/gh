@@ -1,0 +1,42 @@
+.usuario-delete input{
+    background: aliceblue;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 5px;
+    font-size: 16px;
+    color: dimgray;
+}
+
+.usuario-delete label{
+    font-size: 35px;
+    color: black;
+    font-weight: bold;
+}
+
+.nome{
+    font-size: 25px;
+}
+p{
+    font-weight: 20px;
+    color: red;
+}
+
+.button-delete{
+    height: 42px;
+    border-radius: 5px;
+    border: 2px solid rgb(0, 0, 0);
+    background: rgb(45, 177, 133);
+    margin-top:  10px;
+    color: black;
+    font-weight: bold;
+    font-size: 16px;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button-delete:hover{
+    background: blue;
+    color: black;
+}
